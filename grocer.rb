@@ -96,4 +96,4 @@ end
 
 def items_total_cost(i)
  i[:count] * i[:price]
-end
+ end
