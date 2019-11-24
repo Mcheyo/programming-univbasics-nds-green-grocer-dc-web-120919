@@ -93,5 +93,4 @@ def checkout(cart, coupons)
 end
 
 # Don't forget, you can make methods to make your life easy!
-end 
-
+end
