@@ -93,7 +93,5 @@ def checkout(cart, coupons)
 end
 
 # Don't forget, you can make methods to make your life easy!
+end 
 
-def items_total_cost(i)
- i[:count] * i[:price]
- end
